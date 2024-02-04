@@ -18,6 +18,6 @@ public class DeterminarTriangulo {
         } else {
             System.out.println("No se puede formar un triángulo con los lados dados");
         }
-        op.close();
+        OP.close();
     }
 }
