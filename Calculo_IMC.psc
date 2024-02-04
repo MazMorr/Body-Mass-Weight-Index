@@ -5,13 +5,13 @@ Algoritmo Calculo_IMC
 	Escribir "ingrese su estatura en metros: "
 	Leer altura_m
 	IMC= peso_kg / (altura_m * altura_m)
-	Escribir "Su índice de masa corporal es: ", IMC
+	Escribir "Su indice de masa corporal es: ", IMC
 	Si IMC<=19.9 Entonces
-		Escribir "EStás flaco"
+		Escribir "EStas flaco"
 	Si IMC<=24.9 Y IMC >19.9 Entonces
-			Escribir "Estás fitness"
+			Escribir "Estas fitness"
 	Si IMC <= 30 Y IMC>= 25 Entonces
-		Escribir "Estás obeso"
+		Escribir "Estas obeso"
 			FinSi
 		FinSi
 	Fin Si
