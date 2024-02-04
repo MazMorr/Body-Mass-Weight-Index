@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class IMC {
+public class Calculo_IMC {
     public static void main (String[]args){
         Scanner OP=new Scanner(System.in);
         System.out.println("Bienvenido a la calculadora de Índice de Masa Corporal de Marco");
