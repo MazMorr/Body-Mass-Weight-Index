@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class BodyMassWeight {
+public class BodyMassWeightIndex {
     private static Double BodyMassWeightCalculator(){
         Scanner Scan=new Scanner(System.in);
         System.out.println("Bienvenido a la calculadora de Marco");
